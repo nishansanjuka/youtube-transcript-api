@@ -1,0 +1,19 @@
+{
+  "name": "docs-to-text-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mammoth": "^1.8.0",
+    "multer": "^1.4.5-lts.1",
+    "node-stream-zip": "^1.15.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
